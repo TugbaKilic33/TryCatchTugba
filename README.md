@@ -26,12 +26,6 @@
   <img src="https://img.shields.io/badge/Appium-purple?style=for-the-badge&logo=appium&logoColor=white" />
   <img src="https://img.shields.io/badge/RestAssured-green?style=for-the-badge&logo=restassured&logoColor=white" />
 </p>
-## 📌 Featured Projects
-🔹 **[Automated E2E Testing Framework](#)** - Selenium & TestNG-based framework.  
-🔹 **[API Testing Suite](#)** - RESTful API testing using Postman & RestAssured.  
-🔹 **[Performance Testing](#)** - Load testing with JMeter.  
-
----
 
 ### 📬 Let's Connect!
 
