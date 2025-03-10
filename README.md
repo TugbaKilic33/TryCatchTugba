@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tuba!
+# 👋 Hi, I'm Tugba!
 
 🚀 **Passionate about software testing, automation, and continuous learning.** Currently expanding my expertise in **SDET (Software Development Engineer in Test)** methodologies.
 
