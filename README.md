@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Appium-purple?style=for-the-badge&logo=appium&logoColor=white" />
   <img src="https://img.shields.io/badge/RestAssured-green?style=for-the-badge&logo=restassured&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ### 📬 Let's Connect!
