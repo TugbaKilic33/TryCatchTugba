@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Tugba!
+![Code Running](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+
 
 🚀 **Passionate about software testing, automation, and continuous learning.** Currently expanding my expertise in **SDET (Software Development Engineer in Test)** methodologies.
 
